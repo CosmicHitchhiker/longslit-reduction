@@ -1,0 +1,8 @@
+astropy>=3.2.2
+astroscrappy>=1.0.8
+matplotlib>=3.0.2
+matplotlib>=3.0.2
+numpy>=1.17.3
+pandas>=0.24.1
+scipy>=1.2.1
+vorbin>=3.1.3

@@ -1,0 +1,89 @@
+{
+    "WL": {
+        "files": [
+            ""
+        ],
+        "perform": "Yes",
+        "reference": [
+            ""
+        ]
+    },
+    "bias": {
+        "files": [
+            ""
+        ],
+        "perform": "Yes"
+    },
+    "bin": {
+        "perform": "Yes",
+        "snr": 0
+    },
+    "configtype": "new",
+    "cosmics": {
+        "perform": "Yes"
+    },
+    "crop": {
+        "margins": [
+            0,
+            0
+        ],
+        "perform": "Yes"
+    },
+    "flat": {
+        "files": [
+            ""
+        ],
+        "perform": "Yes"
+    },
+    "header": {
+        "update": false
+    },
+    "margins": {
+        "margins": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "perform": "Yes"
+    },
+    "object": {
+        "files": [
+            ""
+        ]
+    },
+    "sky": {
+        "margins": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "perform": "Yes"
+    },
+    "star": {
+        "files": [
+            ""
+        ],
+        "perform": "Yes",
+        "reference": [
+            ""
+        ]
+    },
+    "sum": {
+        "perform": "Yes"
+    },
+    "wd": "",
+    "x_lin": {
+        "files": [
+            ""
+        ],
+        "perform": "Yes"
+    },
+    "y_lin": {
+        "files": [
+            ""
+        ],
+        "perform": "Yes"
+    }
+}

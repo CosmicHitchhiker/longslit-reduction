@@ -1,0 +1,3 @@
+[console_scripts]
+longslit-pipeline = pipeline:main
+
