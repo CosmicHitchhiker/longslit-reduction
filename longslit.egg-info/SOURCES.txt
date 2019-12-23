@@ -1,0 +1,10 @@
+README.md
+setup.py
+longslit/pipeline.py
+longslit.egg-info/PKG-INFO
+longslit.egg-info/SOURCES.txt
+longslit.egg-info/dependency_links.txt
+longslit.egg-info/entry_points.txt
+longslit.egg-info/requires.txt
+longslit.egg-info/top_level.txt
+test/test.py

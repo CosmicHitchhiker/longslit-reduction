@@ -432,7 +432,10 @@ def read_new_config(parameters):
     
     if mode['WL'] != 'No':
         file = parameters['WL']['reference'][0]
-        ref_neon = np.loadtxt(file).T
+        try:
+            ref_neon = np.loadtxt(file).T
+        except OSError:
+            ref_neon = None
         base_neon_name = parameters['WL']['files'][0]
     else:
         ref_neon = base_neon_name = None
