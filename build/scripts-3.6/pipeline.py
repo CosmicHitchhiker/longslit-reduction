@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/astrolander/Documents/study/python/mamont/bin/python3
 #coding=utf-8
 
 import numpy as np
